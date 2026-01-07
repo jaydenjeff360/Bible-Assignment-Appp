@@ -1,0 +1,5 @@
+{
+  "name": "Bible Learning Admin Portal",
+  "description": "A comprehensive admin system for managing students, courses, and analytics for the Bible Learning System, featuring real-time progress tracking and WhatsApp-integrated course editing.",
+  "requestFramePermissions": []
+}
